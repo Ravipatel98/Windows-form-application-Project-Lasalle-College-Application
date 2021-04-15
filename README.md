@@ -1,0 +1,2 @@
+# Windows-form-application-Project-Lasalle-College-Application
+clsCourse (10 points) (property Students is type of clsListStudent). clsListStudent (20 points) (encapsulate a collection List&lt;clsStudent> (index based collection) clsStudent (10 points) clsDataSource (20 points) (this static class will contained 2 methods : - getAllStudents() will read all the students from the database and return a clsListStudent, - saveAllStudents() will write back to the database all the students back to the database
